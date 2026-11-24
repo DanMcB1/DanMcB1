@@ -2,7 +2,7 @@
 
 **Forward Deployed Engineer / Solutions Engineer**
 
-I come from car sales, F&I, and auto software sales (most recently at [Dealr.cloud](https://dealr.cloud)). That background is the point: I know how dealerships work, how customers talk about risk, and what has to be true before anyone will let an AI near a live system. I built the 12 working demos below with AI-assisted coding to show how I would approach the problems a Forward Deployed or solutions engineer hits on a real engagement.
+I come from automotive sales, F&I, and auto software sales (most recently at [Dealr.cloud](https://dealr.cloud)). That background is the point: I know how dealerships work, how customers talk about risk, and what has to be true before anyone will let an AI near a live system. I built the 12 working demos below with AI-assisted coding to show how I would approach the problems a Forward Deployed or solutions engineer hits on a real engagement.
 
 They are **portfolio demos** with sample data for a fictional dealer group, Lakeside Auto Group — not production systems, and not a claim of years of software-engineering experience. Each repo has a README, a one-minute demo script, and tests, and each one runs locally with no paid cloud required.
 
